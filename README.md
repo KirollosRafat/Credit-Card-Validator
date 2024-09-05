@@ -1,4 +1,4 @@
-# Credit Card Validator:
+# Credit Card Validator
 Python credit card validator program:
 Prompts the credit card number from the user and return if it's a vaild credit card or not.
 
